@@ -1,2 +1,2 @@
-<? php
-pheInfo();
+zyjyk
+jihh
